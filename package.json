@@ -1,0 +1,13 @@
+{
+    "type": "module",
+    "name": "skid-string",
+    "version": "0.0.1",
+    "description": "",
+    "main": "Skid.js",
+    "scripts": {
+      "start": "node Skid.js"
+    },
+    "dependencies": {
+      "crypto-random-string": "^4.0.0"
+    }
+  }
